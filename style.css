@@ -1,0 +1,19 @@
+
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/* common css */
+li{
+    list-style: none;
+}
+
+.box{
+    
+    padding: 5px 5px;
+    border: 2px solid #FF4A60;
+    border-radius: 20px;
+}
+.image{
+    width: 90%;
+    margin: 18px;
+}
